@@ -1,0 +1,19 @@
+{
+  "name": "koajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Kornilov",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "koa": "^2.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
